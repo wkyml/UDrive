@@ -34,3 +34,8 @@ https://github.com/wkyml/UDriver/assets/82079546/45161d3b-4730-4653-a5d2-7ce762e
 ### Apollo
 https://github.com/wkyml/UDriver/assets/82079546/9b2dbd40-9c27-4fe7-8929-a189ab543f04
 ### UDriver
+https://github.com/wkyml/UDriver/assets/82079546/0f999b84-16bf-4901-a746-f9bc6e4103fc
+
+## S7:The AV is traveling in the fast lane and come to a stop due to an static obstacle (failure to change lanes to an available lane on the right), ultimately failing to reach its destination.
+### Apollo
+### UDriver
