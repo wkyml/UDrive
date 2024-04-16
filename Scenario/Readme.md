@@ -50,6 +50,7 @@ https://github.com/wkyml/UDriver/assets/82079546/c616fc88-f470-460e-9f5f-63682aa
 
 ## S9:The AV fail to yield to the oncoming straight-through traffic at the stop sign and proceed to make a left turn at the intersection, resulting in an accident.
 ### Apollo
+https://github.com/wkyml/UDriver/assets/82079546/a6e51f3c-1882-4b94-bb46-1e7cb120b48a
 ### UDriver
 
 ## S10:he AV chooses to enter the intersection on a green light despite congestion (6 vehicles present at the intersection).
