@@ -40,4 +40,16 @@ https://github.com/wkyml/UDriver/assets/82079546/0f999b84-16bf-4901-a746-f9bc6e4
 ### Apollo
 https://github.com/wkyml/UDriver/assets/82079546/3a4717a1-81ca-4e79-b20f-f911bf03110e
 ### UDriver
+https://github.com/wkyml/UDriver/assets/82079546/1f8f8be3-da99-4569-8dd2-56d887a4fcf7
 
+## S8:The AV continues to travel at speeds exceeding 30 kilometers per hour despite fog, rain, snow, dust storms, and hail.
+### Apollo
+### UDriver
+
+## S9:The AV fail to yield to the oncoming straight-through traffic at the stop sign and proceed to make a left turn at the intersection, resulting in an accident.
+### Apollo
+### UDriver
+
+## S10:he AV chooses to enter the intersection on a green light despite congestion (6 vehicles present at the intersection).
+### Apollo
+### UDriver
