@@ -44,6 +44,7 @@ https://github.com/wkyml/UDriver/assets/82079546/1f8f8be3-da99-4569-8dd2-56d887a
 
 ## S8:The AV continues to travel at speeds exceeding 30 kilometers per hour despite fog, rain, snow, dust storms, and hail.
 ### Apollo
+https://github.com/wkyml/UDriver/assets/82079546/61bd2e01-7f13-4827-88d8-2b75ec19833c
 ### UDriver
 
 ## S9:The AV fail to yield to the oncoming straight-through traffic at the stop sign and proceed to make a left turn at the intersection, resulting in an accident.
