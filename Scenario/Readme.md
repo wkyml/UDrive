@@ -52,6 +52,7 @@ https://github.com/wkyml/UDriver/assets/82079546/c616fc88-f470-460e-9f5f-63682aa
 ### Apollo
 https://github.com/wkyml/UDriver/assets/82079546/a6e51f3c-1882-4b94-bb46-1e7cb120b48a
 ### UDriver
+https://github.com/wkyml/UDriver/assets/82079546/ae3e85dd-3555-481a-9be5-6f6983e46952
 
 ## S10:he AV chooses to enter the intersection on a green light despite congestion (6 vehicles present at the intersection).
 ### Apollo
