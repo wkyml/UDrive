@@ -88,6 +88,7 @@ then
     cruise_speed(20)
 end
 ```
+
 Noted: Not applicable at now stage, because the map doesn’t support this kind of traffic lights.
 ### Law43
 When two red lights flash alternately or one red light is on a road and railway intersection, it means that vehicles and pedestrians are prohibited; when the red light is off, it means that vehicles and pedestrians are allowed to pass.
@@ -113,6 +114,7 @@ then
     launch
 end
 ```
+
 Noted: Not applicable at now stage, because the map doesn’t support this kind of traffic lights.
 ### Law44
 Where there are two or more motorized lanes in the same direction on the road, the left side is the fast lane and the right side is the slow lane. Motor vehicles traveling in a fast lane shall drive at the speed specified in the fast lane, and those that have not reached the speed specified in the fast lane shall drive in a slow lane. Motorcycles should drive in the rightmost lane. If there are traffic signs indicating the driving speed, drive at the indicated driving speed. When a motor vehicle in a slow lane overtakes the preceding vehicle, it can borrow the fast lane to drive. Where there are two or more motor vehicle lanes in the same direction on the road, the motor vehicle that changes lanes shall not affect the normal driving of the motor vehicle in the relevant lane.
@@ -286,6 +288,7 @@ then
 end 
 ```
 * When towing a malfunctioning motor vehicle.
+
 Noted: Some elements, including visibility, icy roads, and muddy roads, are not currently supported by the simulator.
 ### Law47
 When a motor vehicle is overtaking, it shall turn on the left turn signal in advance, change the use of far and low beam lights, or honk the horn. On a road with no center line of the road or with only one motor vehicle lane in the same direction, when the vehicle in front meets the vehicle behind and sends an overtaking signal, if conditions permit, the speed should be reduced and the road should be made to the right. After confirming that there is a sufficient safety distance, the following vehicle should pass from the left side of the vehicle in front, and after pulling the necessary safety distance from the overtaken vehicle, turn on the right turn signal and drive back to the original lane.
@@ -317,6 +320,7 @@ be observed when driving:
 * On a narrow slope, the uphill side goes first; but when the downhill side has reached halfway and the uphill side is not uphill, the downhill side goes first;
 * On the narrow mountain road, the side that does not rely on the mountain shall go first;
 * At night meeting vehicles should switch to low beam lights 150 meters away from the oncoming vehicle in the opposite direction, and should use low beam lights when meeting vehicles on narrow roads, narrow bridges and non-motorized vehicles.
+
 Note: This rule is hard to describe, because it’s vague. The experiments can not be conducted due to the limit of maps.
 ### Law49
 Motor vehicles shall not make U-turns at locations where there are signs or markings forbidden to turn or turn left, and at railway crossings, crosswalks, bridges, sharp bends, steep slopes, tunnels or road sections prone to danger. Motor vehicles can make U-turns where there is no prohibition of turning or left-turning signs or markings, but it shall not hinder the passage of other vehicles and pedestrians in normal driving.
