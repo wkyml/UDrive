@@ -142,6 +142,7 @@ condition
 then
     allow_change_lane(right, true)
     change_lane(right, 1)
+end
 ```
 ### Law45
 Motor vehicles must not exceed the speed indicated by the speed limit signs and
