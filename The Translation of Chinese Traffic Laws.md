@@ -196,9 +196,25 @@ then
 end
 
 trigger
-    in(lane)
-condition
-    distance_to(railway, <, 20)
+    in(railway)
+then
+    max_plan_speed(30)
+end
+
+trigger
+    in(sharp_curve)
+then
+    max_plan_speed(30)
+end
+
+trigger
+    in(narrow_road)
+then
+    max_plan_speed(30)
+end
+
+trigger
+    in(narrow_bridge)
 then
     max_plan_speed(30)
 end
